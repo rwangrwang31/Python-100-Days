@@ -1,0 +1,7 @@
+site_name: Python 100 Days 笔记
+site_url: https://your-site.vercel.app
+theme:
+  name: material
+  language: zh
+plugins:
+  - search
